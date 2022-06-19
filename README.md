@@ -1,5 +1,9 @@
 # Frontend Mentor - Testimonials grid section
 
+## Check out the finished product here: https://daniel-cherny.github.io/testimonials-grid-layout/
+
+...
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
