@@ -1,5 +1,3 @@
-# Frontend Mentor - Testimonials grid section
-
 The following testimonials section was created with CSS grid. No frameworks were used.
 
 The section is fully responsive.
